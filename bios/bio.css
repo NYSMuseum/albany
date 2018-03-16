@@ -1,0 +1,83 @@
+/* selectors ------------------------------------------------------------------*/
+BODY    
+	{
+	font-family: "arial", helvetica, sans serif;
+	margin-top: 8px;
+	margin-left: 8px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	width: auto;
+	background-color: #ffd4b8;
+	font: Arial, Helvetica, sans-serif;
+}
+A:active
+	{
+	color: #0000ff;
+	background: transparent;
+	font-family: Arial, Helvetica, sans-serif;
+}
+A:link
+	{
+	color: #dd0000;
+	background: transparent;
+	font-family: Arial, Helvetica, sans-serif;
+}
+A:visited 
+	{
+	color: #ee0000;
+	background:transparent;
+	font-family: Arial, Helvetica, sans-serif;
+}		
+H1.bioname
+{
+	color: #a04000;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/* classes ------------------------------------------------------------------*/
+.name
+	{
+	font-color: #551d00
+	font size: larger
+	font-weight: bold
+}
+.author
+	{
+	font-size: medium;
+
+}
+.sources
+{
+font-size: small;
+}
+
+.smalltext
+{
+	font-size: smaller;
+}
+
+.footer
+{
+	font size=110%;
+{
+	
+}
+.posted
+{
+	font-size: 70%;
+}
+.bioname
+{
+	color: #551d00;
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/* ID's ------------------------------------------------------------------*/
+
+/* FOOTER ------------------------------------------------------------------*/
